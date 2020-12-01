@@ -1,12 +1,15 @@
 # Linking Geo-Data through Test and Play
 
-A hands-on activity in linking and enriching geo-data, part of the [Linked Pasts conference 2020](https://ics.sas.ac.uk/events/linked-pasts-6):
-https://www.eventbrite.co.uk/e/linking-geo-data-through-test-and-play-tickets-129858356841
+A hands-on activity in linking and enriching geo-data, part of the [Linked Pasts conference 2020](https://ics.sas.ac.uk/events/linked-pasts-6).
+
+Please sign up at this [eventbrite](https://www.eventbrite.co.uk/e/linking-geo-data-through-test-and-play-tickets-129858356841)
 
 Please find datasets, scripts and other information for the three tools in separate directories.
-[DeezyMatch](https://living-with-machines.github.io/DeezyMatch/) `./deezymatch`
-[World Historical Gazetteer](http://whgazetteer.org/) `./WHG`
-[Heritage Connector] (https://www.sciencemuseumgroup.org.uk/project/heritage-connector/) `./heritageconnector`
+* [DeezyMatch](https://living-with-machines.github.io/DeezyMatch/) `./deezymatch`
+* [World Historical Gazetteer](http://whgazetteer.org/) `./WHG`
+* [Heritage Connector](https://www.sciencemuseumgroup.org.uk/project/heritage-connector/) `./heritageconnector`
+
+
 
 
 Thanks to British Library, Historic Environment Scotland and Historic England for the datasets.
@@ -14,6 +17,7 @@ Thanks to British Library, Historic Environment Scotland and Historic England fo
 Contains Historic Environment Scotland and Ordnance Survey data © Historic Environment Scotland - Scottish Charity No. SC045925 © Crown copyright and database right 2020
 
 © Historic England 2020. Contains Ordnance Survey data © Crown copyright and database right 2020 The Historic England GIS Data contained in this material was obtained on 28/8/20. The most publicly available up to date Historic England GIS Data can be obtained from http://www.HistoricEngland.org.uk.
+
 
 Datasets are provided for each of the three tools however if you would like to go further please do look at the open SHP datasets available below. The script `./utils/DBF_convert.py` might be of use.
 
