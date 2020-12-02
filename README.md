@@ -46,6 +46,6 @@ https://www.opendatani.gov.uk/dataset/areas-of-significant-archaeological-intere
 
 
 Link to structured feedback:
-https://docs.google.com/forms/d/13nKvw2UdvdVy9vVro8a4YRIL40kJP9CUhrRW08Ge6A4/viewform?edit_requested=true
+https://forms.gle/PaYsz5qp12kYYVYn8
 
 This technical workshop is part of the AHRC-funded [Locating a National Collection](https://tanc-ahrc.github.io/LocatingTANC/) project, which sits within the AHRC programme: [Towards a National Collection: Opening UK Heritage to the World](https://www.nationalcollection.org.uk/). It is organised by British Library, in collaboration with The Alan Turing Institute, University of Pittsburgh World History Center and Science Museum Group.
