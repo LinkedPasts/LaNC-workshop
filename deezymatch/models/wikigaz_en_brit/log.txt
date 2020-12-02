@@ -1,0 +1,17 @@
+# 11/16/2020_13:53:44
+# Current directory: /data/home/mcollardanuy/PlaceLinking/toponym_matching
+# python /data/anaconda/envs/py37deezy/bin/DeezyMatch -i ./inputs/input_dfm_002.yaml -d ./gazetteers/britwikigaz_dataset.txt -m wikigaz_en_002
+# ------------------
+# Arguments:
+# input_file_path: /data/home/mcollardanuy/PlaceLinking/toponym_matching/inputs/input_dfm_002.yaml
+# dataset_path: /data/home/mcollardanuy/PlaceLinking/toponym_matching/gazetteers/britwikigaz_dataset.txt
+# model_name: wikigaz_en_002
+# n_train_examples: None
+# ------------------
+11/16/2020_14:28:57 -- Epoch: 1/20; Train; loss: 0.200; acc: 0.927; precision: 0.919, recall: 0.937, macrof1: 0.927, weightedf1: 0.927
+11/16/2020_14:32:07 -- Epoch: 1/20; Valid; loss: 0.157; acc: 0.945; precision: 0.943, recall: 0.948, macrof1: 0.945, weightedf1: 0.945
+11/16/2020_15:09:03 -- Epoch: 2/20; Train; loss: 0.132; acc: 0.953; precision: 0.952, recall: 0.954, macrof1: 0.953, weightedf1: 0.953
+11/16/2020_15:12:13 -- Epoch: 2/20; Valid; loss: 0.135; acc: 0.952; precision: 0.951, recall: 0.954, macrof1: 0.952, weightedf1: 0.952
+11/16/2020_15:48:34 -- Epoch: 3/20; Train; loss: 0.097; acc: 0.966; precision: 0.967, recall: 0.965, macrof1: 0.966, weightedf1: 0.966
+11/16/2020_15:51:44 -- Epoch: 3/20; Valid; loss: 0.140; acc: 0.949; precision: 0.940, recall: 0.958, macrof1: 0.949, weightedf1: 0.949
+11/27/2020_14:20:57 -- Epoch: 0/0; Test; loss: 1.419; acc: 0.628; precision: 0.703, recall: 0.442, macrof1: 0.615, weightedf1: 0.615
