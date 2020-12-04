@@ -1,1 +1,1 @@
-DeezyMatch==1.2.1
+DeezyMatch==1.2.2
