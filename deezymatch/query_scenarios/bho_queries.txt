@@ -1,0 +1,100 @@
+Lledrod Uchâv	0	false
+Beer	0	false
+Blidworth	0	false
+Hill Croome	0	false
+Orwell	0	false
+Stanmer	0	false
+Eastcourt	0	false
+Virley	0	false
+The Lye	0	false
+Poxwell	0	false
+Stibbington	0	false
+Scartho	0	false
+Hernhill	0	false
+St. Juliot	0	false
+Coundon-Grange	0	false
+Lambcroft	0	false
+Lubbesthorpe	0	false
+Bucknell	0	false
+Kîlken	0	false
+Ightenhill-Park	0	false
+Winforton	0	false
+Luddenham	0	false
+Newton-Morrell	0	false
+Bentley	0	false
+Thurlton	0	false
+Warren	0	false
+Kenninghall	0	false
+Burgate	0	false
+Llanrhaiadr-In-Kinmerch	0	false
+Wilby	0	false
+Wotton	0	false
+Ruardean	0	false
+Llanvrothen	0	false
+Davenham	0	false
+Ludlow	0	false
+Colmworth	0	false
+Malvern-Link	0	false
+Alphamstone	0	false
+Chesham	0	false
+Sudbrook	0	false
+Little Washbourn	0	false
+Whitnell	0	false
+Cowling	0	false
+Layham	0	false
+Wheatley	0	false
+Wilton	0	false
+Lea-Newbold	0	false
+Bulford	0	false
+Grinshill	0	false
+South Mundham	0	false
+Moulton-Park	0	false
+Witcomb Magna	0	false
+East Witton	0	false
+Cletterwood	0	false
+Chesterhope	0	false
+Pleasely-Hill	0	false
+Stydd	0	false
+Sudbury	0	false
+Wrington	0	false
+Alverdiscot	0	false
+Lower division Bowland-Forest	0	false
+Cole	0	false
+Doddiscombsleigh	0	false
+[Oct. 1.] Cott. Calig. C.I.	0	false
+Clarach	0	false
+Brimfield	0	false
+Langdon	0	false
+Hutton-In-The-Forest	0	false
+Chidham	0	false
+Old Alresford	0	false
+Nutley	0	false
+Bartestree	0	false
+Colbourne	0	false
+Serlby	0	false
+East Buckland	0	false
+Higher Booths	0	false
+Weeks	0	false
+Old Laund Booth	0	false
+Chelsham	0	false
+Caldicott	0	false
+Humbleton	0	false
+Leckonfield	0	false
+Duddeston cum Nechells	0	false
+Thornby	0	false
+Combe	0	false
+North-Holme	0	false
+St. Pinnock	0	false
+Bunwell	0	false
+Walcott	0	false
+Temple Guyting	0	false
+Hauxley	0	false
+Northsceugh	0	false
+Stow-Upland	0	false
+Whitwick	0	false
+Hedgerley	0	false
+Linton	0	false
+Cateby	0	false
+Ingleby-Greenhow	0	false
+Kibblesworth	0	false
+Ripple	0	false
