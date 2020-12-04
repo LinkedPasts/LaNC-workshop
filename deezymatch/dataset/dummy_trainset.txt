@@ -1,0 +1,1000 @@
+Iraq	Pakatnamú	FALSE
+Moosseedorf	Kladorub Glacier	FALSE
+Climăuț	Gurvanbayan	FALSE
+Port Louis	Fort Louisbourg	FALSE
+Begowala	Begowal	FALSE
+Łabusz	Cabus	FALSE
+Lourenzá	Lourenties	FALSE
+Rhünda	Bīlcheh Sūr	FALSE
+Maribor	Darreh ye Na	FALSE
+WWDP	WIDP	FALSE
+Sulijeh	Salijeh	FALSE
+Acadia	Aradia	FALSE
+Környe	Körner	FALSE
+Dian Lake	Dukan Lake	FALSE
+Kilrea	Kilree	FALSE
+Dhale	Mokronosy	FALSE
+Ute Mountain	Montopolis Bridge	FALSE
+Évora	Boora	FALSE
+Gedera	Odera	FALSE
+Perušić	Hung Hom Wan	FALSE
+Pšánky	Nova Ves I	FALSE
+Florina	Florinia	FALSE
+Mozhaysk	Mozhayka	FALSE
+Balkh	Balieh	FALSE
+Ojak Sar	Chak Sara	FALSE
+Arisba	Pachchawati	FALSE
+Lanao del Norte	Mindanao del Norte	FALSE
+Oberelsaß	Unterelsaß	FALSE
+La Caldera	O a Caldera	FALSE
+Atsugi	Milam Creek	FALSE
+Tieshan District	Lalawigan ng Antalya	FALSE
+Le Châtelier	Les Châteliers	FALSE
+Vârciorog	Vârciorova	FALSE
+Urissaare	Orissaare	FALSE
+Erfurt	Franfurt	FALSE
+Ham Street railway station	Monroe High SchoolMichigan	FALSE
+Bilagi	Bilagh	FALSE
+Aluyak	Guyak	FALSE
+Nemea	Nemena	FALSE
+Bärschwil	Dai Toa Gekiyo	FALSE
+Český Krumlov	Moravský Krumlov	FALSE
+Araouane	Kataouane	FALSE
+Starkoč	Raystown Dam	FALSE
+Bruchsal	Bruchstedt	FALSE
+Câmpuri	Xibali Zhan	FALSE
+Qomshan	Kūmshan	FALSE
+Kalarm	Kalae	FALSE
+Madhya Pradesh	MalwaMadhya Pradesh	FALSE
+Čalići	Balići	FALSE
+Mogyoród	Mogyorós	FALSE
+Peel Cathedral	Cashel Cathedral	FALSE
+Wuhu	Yuhu	FALSE
+Lungi International Airport	Changi International Airport	FALSE
+Ria	Rie	FALSE
+Ōkama Station	Ōyama Station	FALSE
+Barehsar	Pirehsara	FALSE
+Louvre	Louverne	FALSE
+Walker Pond	Tone-machiyakuba	FALSE
+Artiman	Ihtiman	FALSE
+Zugspitze	Königspitze	FALSE
+Senorbì	Senora	FALSE
+Kastav	Shchekinski	FALSE
+Rawhitiroa	Rāwhitiroa	FALSE
+Tajnud	Tajnan	FALSE
+Semeru	Symeru	FALSE
+Tilaiya	Peremyotnoye	FALSE
+WQHR	Surhuizum	FALSE
+Gatab	Gatae	FALSE
+Granby station	Danby station	FALSE
+Hatín	Vatín	FALSE
+Borek Wielki	Kozarek Wielki	FALSE
+Nepal	Kupal	FALSE
+Pruzhany	Kotyuzhany	FALSE
+Banbury railway station	Premier Lake Provincial Park	FALSE
+Kuwait	Kuwaku'i	FALSE
+Poloseva	Belosevac	FALSE
+Astor Court	Ch'indii lich'ii	FALSE
+Mirfield railway station	Garfield railway station	FALSE
+Umnak Pass	Lanak Pass	FALSE
+Cisowo	S.Rayavaram	FALSE
+Chernevtsi	Chernevtzy	FALSE
+Midžor	Madžorė	FALSE
+Utena County	Legislative Yüan	FALSE
+Asovka River	Gdovka River	FALSE
+Jastrzębice	Jastrzębie	FALSE
+Žunovnica	Zrnovnica	FALSE
+Dniester	Trans Dniestr	FALSE
+Troezen	Boezen	FALSE
+Oskemen	Kecskemet	FALSE
+Alabama	Alabayır	FALSE
+Bilioso	Fakhr Makān	FALSE
+Morioka	Moriond	FALSE
+Yurdçu	Yurdak	FALSE
+Vahidli	Machidli	FALSE
+Narentines	Tarentine Gulf	FALSE
+Teiuș	Teium	FALSE
+Mahakan	Ochakan	FALSE
+Waling	Waliny	FALSE
+Zacharo	Lacharā	FALSE
+Benaize	Benaix	FALSE
+Habaja	Berevo lake	FALSE
+Zarjabad	Borjabad	FALSE
+Vlissingen	New Vlissingen	FALSE
+Herzliya	Herzliah High	FALSE
+Törbel	Irbel	FALSE
+Demmin	Demmen	FALSE
+Karasf	Qolteq Shah	FALSE
+Kangamba	Yangambi	FALSE
+Zelenogradsk	Zelenograd	FALSE
+Anayesht	Malayeshty	FALSE
+KDLD	KDLH	FALSE
+Aust Ferry	East Ferry	FALSE
+Punjab	Punjo	FALSE
+Nowy Dzików	University of NC	FALSE
+Beh Bonak	House's Spring	FALSE
+Khalteh	Khalti	FALSE
+Mayadin	Mayadykovo	FALSE
+Malawi	Malapo	FALSE
+King's Cove	King's College	FALSE
+Skansen	Skansin	FALSE
+Abisko	Val Quentin	FALSE
+Hubin District	Maubin District	FALSE
+Badaroux	Badaro	FALSE
+Qingdao	Changdao	FALSE
+Farkhar	Farkhad	FALSE
+Albulae	Albula	FALSE
+The Huntingdon	Contae Huntingdon	FALSE
+Chałupy	Chałupa	FALSE
+Dasht-e Dal	Dasht-e Deh	FALSE
+Idhna	Darreh Dul	FALSE
+Cotoca	Szent-János	FALSE
+Baycliff	Graycliff	FALSE
+Kani Pasha	Jih-t’u-tsung	FALSE
+Nà Khoa	Muang Khoa	FALSE
+Derebucak	Pei-chen Hsien	FALSE
+Gwynedd	Montréal ACC	FALSE
+Kuçovë	Teyssieres	FALSE
+Fort Dix	Fort Diu	FALSE
+Røssvatnet	Russvatnet	FALSE
+Toukh	Touch	FALSE
+Čengići	Čengić	FALSE
+Tornio	Pornic	FALSE
+Bay House School	Ranby House School	FALSE
+Savinas	Malvinas	FALSE
+Agios Dimitrios	Agios Dimitrianos	FALSE
+Hojedk	Hojer	FALSE
+Hestroff	Gmina Lubanie	FALSE
+Anzère	Moolawatana	FALSE
+Kongsfjorden	Maurangsfjorden	FALSE
+Nordanö	Edakkal Cave	FALSE
+Vârfurile	Vârfuri	FALSE
+East Timor	West Timorese	FALSE
+Janizeh	Chittor Fort	FALSE
+Wushan Yangtze River Bridge	Kars Gyumri Tbilisi railway	FALSE
+Helmstedt	Almstedt	FALSE
+Bansko	Ransko	FALSE
+Kavanaq	Gorodisjtsje	FALSE
+Songyuan	Hongyuan	FALSE
+Laukaha	Isola Minore	FALSE
+Northeim	Bramall Lane	FALSE
+Vegår	Dulaanhaan	FALSE
+Zurancham	Puranchaur	FALSE
+Ashkezar	Maidan Pratsi	FALSE
+Gebesee	Sebesel	FALSE
+Barana	Barani	FALSE
+Qabala	Habala	FALSE
+Jarreh-ye Sofla	Qoldarreh-ye Soflá	FALSE
+Chelforó	Hackwood Park	FALSE
+Meilhac	Milhac	FALSE
+Kōjima	Dundee Park	FALSE
+Baghleq	Baghlu	FALSE
+Yanbodu	Yanbolaq	FALSE
+Kilsə	Gramë Lake	FALSE
+Nauru	Jaura	FALSE
+Oakmere	Maittanpatti	FALSE
+Bantwal	Sawantwari	FALSE
+Saransar	Jouret Bedran	FALSE
+Petrovske	Petrovskoe	FALSE
+Angaïs	Angas	FALSE
+Zinkovo	Susayqışlaq	FALSE
+Umerkot	Amerkot	FALSE
+Bégaar	Vagaar	FALSE
+Marrara Oval	Brecknock Castle	FALSE
+Ribeira Chã	Arhus University	FALSE
+Garonne	Véronne	FALSE
+Ngatea	Meurville	FALSE
+Cuesmes	Couesmes	FALSE
+Anaklia	Konakli	FALSE
+Aitou	Sitou	FALSE
+Livađe	Thanh Bình	FALSE
+WFQY	WFBY	FALSE
+Puleh	Technoparc	FALSE
+Andebu	Anden	FALSE
+Karbeyaz	Görbeyaz	FALSE
+Bokrači	Jupati River	FALSE
+Freising	Zeising	FALSE
+Laken Pass	Comté de Kalmar	FALSE
+Nanpara	Bonpara	FALSE
+Morto Bay	Puerto Bayobar	FALSE
+Smagne	Bois-d’Arcy	FALSE
+Siliana	Río Yorkín	FALSE
+Čimelice	Jedomelice	FALSE
+Dar Kuh	Kumyk people	FALSE
+Figuig	Padjadjaran	FALSE
+Drijat	Blacks Lick	FALSE
+Pace Gallery	Tiannanmen Square	FALSE
+Tabankulu	Sabankul	FALSE
+Beyza	Beyra	FALSE
+Corinth	Corinna	FALSE
+Lofoten	Stadt Torgau	FALSE
+Nagpur railway station	Gangpur railway station	FALSE
+Lesum	Crouzilles	FALSE
+Wila Pukara	Lanhydrock House	FALSE
+Solulan	Halulan	FALSE
+Humadan	Hamadan	FALSE
+Rubirizi	Kitakami-gawa	FALSE
+Palaiochora	Palaiochori	FALSE
+Jaú National Park	Manú National Park	FALSE
+Joannas	Cobb's Hill	FALSE
+Kinaros	Vinaros	FALSE
+Bahu Kalat	Mahu Kalan	FALSE
+Galuzi	Galu	FALSE
+Mérouville	Gérouville	FALSE
+Turkey	Turków	FALSE
+Dnipro	DniproGES	FALSE
+Domaize	Domaine	FALSE
+KLXI	KPXI	FALSE
+Yasuj	Yasaua	FALSE
+Sharovka	Sharova	FALSE
+Usarp Mountains	Sharp Mountains	FALSE
+Muhammad	Nur Mohammad	FALSE
+Bēne Manor	Pine Manor	FALSE
+Saybrook College	St. Boniface s Church	FALSE
+Massawa	Massaly	FALSE
+Wörth an der Donau	Övertorneå Municipality	FALSE
+Bilgəh	Bilgas	FALSE
+Ješetice	Těšetice	FALSE
+Rostam Rud	Paraburdoo mine	FALSE
+Carema	Curema	FALSE
+Kirimäe	Calmes's Gap	FALSE
+Wallonia	Fort Vallonia	FALSE
+Alter Hof	Banater Hof	FALSE
+Emån	Emen	FALSE
+Timaru	Mimara	FALSE
+Rocha River	Vacha River	FALSE
+Zangdar	Grossmünster	FALSE
+Molokai	Molok	FALSE
+Xiangyang	Njangyang	FALSE
+Toufen	Jioufen	FALSE
+Tunabreen	Gjegnabreen	FALSE
+Hrančići	Krančići	FALSE
+Cinere	Daska Kalan	FALSE
+Koip Peak	Kip Peak	FALSE
+Zhuji	Zhuqi	FALSE
+Tiszarád	Tiszaroff	FALSE
+Jordan	Zardan	FALSE
+Borås	Abū Sunbul	FALSE
+Alkefjellet	Hewlett Bay Park	FALSE
+Brzyszów	Philadelpheia	FALSE
+Hawick	Hawich	FALSE
+Baraachit	Karaachi	FALSE
+Rock Hawk	Lake St. Clair	FALSE
+Rekówka	Aşağı Kertil	FALSE
+Castelverde	Raikawar Bichawa	FALSE
+Bagh Kaj	Bagh Kandi	FALSE
+Vendres	Qowme Dehqan	FALSE
+Rourkela	Rourkee	FALSE
+Kobierzyce	Kobierzycko	FALSE
+Gastouni	Estounii	FALSE
+Světec	Světce	FALSE
+Mäeltse	Pervoural’sk	FALSE
+Mužlja	Sand storm	FALSE
+Shian	Sian	FALSE
+Wisznia	Little Alps	FALSE
+Sarovlu	Shadikongoro	FALSE
+Ou Char	Mendez Nuñez	FALSE
+Hina Station	Tavistock College	FALSE
+Guangxi	Gangxia	FALSE
+Sarhadd	Sarhari	FALSE
+Murestan	Hackney House	FALSE
+Vladimirci	Vladimirei	FALSE
+Punjab	Linjab	FALSE
+Orgosolo	Kokkini Rachi	FALSE
+Buganda	Bugandi	FALSE
+Lake Junin	Kurumbalakotta	FALSE
+Strachoń	Gawliki Male	FALSE
+Quzanlı	Kazanlı	FALSE
+Lake Tele	Lake Teke	FALSE
+Babek District	Armuña de Almanzora	FALSE
+Abadiño	Abadiyeh	FALSE
+Salmanlu	Fourth Avenue	FALSE
+Bimini	Rímini	FALSE
+RIMAC	RIMC	FALSE
+Odou	Otou	FALSE
+Șincai	Șinca	FALSE
+Oltina	Snell House	FALSE
+Valaam	Vala	FALSE
+Mezzano	Mezzana	FALSE
+Züsch	Zürsch	FALSE
+Flood's Ferry	Wood's Ferry	FALSE
+Ballyconnell	Ballyconneely	FALSE
+Yamama	Yamada	FALSE
+Tigné	Ligné	FALSE
+Blitzingen	Hrabstwo Floyd	FALSE
+Świeżawy	Jackson Inlet	FALSE
+Cajamarca	Cajamar	FALSE
+Guangxi	Guangta	FALSE
+Pavinsky District	Polovinsky District	FALSE
+Nodeland	Kannamangalam	FALSE
+Luninsky District	Elninsky District	FALSE
+Pęklewo	Masunda Lake	FALSE
+Chinandega	Chefe Chinande	FALSE
+Drużno	Drużbin	FALSE
+Ramjerd	Bazamjerd	FALSE
+Bouillon	Whickham F C	FALSE
+Tefli	Dimitrofçe	FALSE
+Odrynki	Ban Done Kho	FALSE
+Rue Molière	Yukhary-Veysanli	FALSE
+Radhesh	Madhesa	FALSE
+Harizeh	Larizeh	FALSE
+Avanjan	Arsanjan	FALSE
+Vellinge	Haja al Aswad	FALSE
+Kusu Island	Volcan Tajumulco	FALSE
+Mount Rausu	Mount Raung	FALSE
+Mühlsee	Fuschlsee	FALSE
+Kharkushi	Boncuta River	FALSE
+Ördüc	Ördü	FALSE
+Osh Region	Gôh Region	FALSE
+Wular Lake	Malar Lake	FALSE
+Rumarei	Jiangkou Dam	FALSE
+Charlęż	Charlyk	FALSE
+Tartu	Yichun Shi	FALSE
+Mętno Małe	Coomeroogunja	FALSE
+Zainsky District	Aginsky District	FALSE
+Temù	Teme	FALSE
+Latakia	Stakiai	FALSE
+Täkulaid	Eerikulaid	FALSE
+Auqui	Nuqui	FALSE
+Makati	Makatu	FALSE
+Mitterfels	Fraunthal House	FALSE
+Zmeitsa	Meitsar	FALSE
+Chilworth railway station	East Aquhorthies stone circle	FALSE
+Ľubiša	Ľubica	FALSE
+Gorgan	Gorgdan	FALSE
+Lamar University	Westmar University	FALSE
+Kentucky Dam	Amphoe Rong Kwang	FALSE
+Msida	Nangalasso	FALSE
+Osowo Leśne	Grabowo Leśne	FALSE
+Mehregi	Mehren	FALSE
+Sikirje	i-Madagascar	FALSE
+Fukuchi Station	The Cherry Hill Mall	FALSE
+Lascaux	Lasca	FALSE
+Navazen	Kondovazena	FALSE
+Gadmeh	Gardmehr	FALSE
+Pota	Rota	FALSE
+Koudougou	Soudougou	FALSE
+Słubice	Kargapol sky	FALSE
+Jintan District	Hetty Pegler s Tump	FALSE
+Madrid	Jadrin	FALSE
+Putian	Yutian	FALSE
+CKNW	CKNI	FALSE
+Firbeck	Diarbeck	FALSE
+Sitovo Municipality	Vetovo Municipality	FALSE
+Alpspitz	Vigor School	FALSE
+Qom Qeshlaq	Ajim Qeshlaq	FALSE
+Dumosh	Garancieres	FALSE
+The Mound	Alligani Hills	FALSE
+Aşağı Apu	Raczki Wielkie	FALSE
+Tainan	Tsinan	FALSE
+Leith Hill	Menwith Hill	FALSE
+Ein Gedi	Ein Gev	FALSE
+Zixi County	Cixi County	FALSE
+Le Mouret	Founders' Hall	FALSE
+Cerăt	Ceret	FALSE
+Jdeideh	Al Jweideh	FALSE
+Beles River	Kadogawa Station	FALSE
+Nigeria	Freigericht	FALSE
+Gunestan	Bonestan	FALSE
+Kürkəndi	Jutunheimenas	FALSE
+Sittingbourne	Sittingbourne seax	FALSE
+Ruxley	Window Arch	FALSE
+WYFQ	Parod Bet	FALSE
+Nuuk Airport	Munuk Airport	FALSE
+Malča	Shunsen-kō	FALSE
+Sololá	Karei-Deshé	FALSE
+Nea Kameni	Velika Kamenica	FALSE
+Taupo	Taula	FALSE
+Lechaina	Streetley End	FALSE
+Lamlang	Tamland	FALSE
+Alnön	Alnes	FALSE
+Jilava	Tsetseg Sum	FALSE
+Melekeok	Ah gwah ching	FALSE
+Solovyovsk	Solovyovka	FALSE
+Giresun	Aghiresu	FALSE
+Trupel	Krupe	FALSE
+Lepir	Leper	FALSE
+Czerniów	Aufwuchs Lake	FALSE
+Stromness	Stromness Bay	FALSE
+Półczynek	Marbury School	FALSE
+Čumić	The Sevens	FALSE
+Greece	Creech	FALSE
+Gălăuțaș	Serare School	FALSE
+Uzeničky	Luženičky	FALSE
+Bergouey	Kandramanikam	FALSE
+Laksky District	Novolaksky District	FALSE
+Borovići	Zardin e Pain	FALSE
+KDRV	Zhongguan	FALSE
+Hafling	Helfling	FALSE
+Quarante	Neo Psykhikon	FALSE
+Hualqui	Upsalquitch	FALSE
+Zhongshan County	Tongshan County	FALSE
+Avenliq	Shahbaz Beyg	FALSE
+River Spean	River Spen	FALSE
+WMSS	Āmuākāndi	FALSE
+Pirita	Piripa	FALSE
+Rishton railway station	Hrubieszów Commune	FALSE
+DuPage County Courthouse	Page County Courthouse	FALSE
+Lobith	Lobitz	FALSE
+Runchu	Junchu	FALSE
+Pochuck Mountain	Pilchuck Mountain	FALSE
+Tecknau	Pecknam	FALSE
+Futog	Rutog	FALSE
+Kureh Darreh	Mareh Darreh	FALSE
+Uştal	Utal	FALSE
+Perovo District	Knivsta Municipality	FALSE
+Limbourg	Sambourg	FALSE
+Hamasien	Le Redoute	FALSE
+Sog County	Long County	FALSE
+Chaguaya	Hanımçiftliği	FALSE
+Pindaí	Pinda	FALSE
+Çamoluk	Moinatrindri	FALSE
+Dikella	Cotton Patch	FALSE
+Lentella	Wheaton Creek	FALSE
+Monticello	Rives-en-Seine	FALSE
+Fintown	Supare Akoko	FALSE
+Efoulan	Puti Temple	FALSE
+Phrygia	Myopterygia	FALSE
+Traînel	Traînou	FALSE
+Berwinne	Berwind	FALSE
+Véranne	Granne	FALSE
+Càrcer	Kalska Wola	FALSE
+Jorgheh	Qargheh	FALSE
+Saravali	Kings Square	FALSE
+Balakən	Balakong	FALSE
+Cheyyar River	Rūstā-ye Sālemābād	FALSE
+Momajny	Kang e Sofla	FALSE
+Będzieszyna	Neaethum Castrum	FALSE
+Ansan	Anshan	FALSE
+Tiwanaku	Aiwanak	FALSE
+Avanj	Avand	FALSE
+Xiahe County	Habahe County	FALSE
+Accra	Mocra	FALSE
+Qareh Aghach	Qareh Aghaj	FALSE
+Vendée	Vendam	FALSE
+Aigun	Adgun	FALSE
+Delice River	Orlice River	FALSE
+Pozzuoli	Eschen-Nedeln	FALSE
+Manasija	Bystrinskoye	FALSE
+Raniganj	Ranigaon	FALSE
+Tõrvajõe	Vercingétorix	FALSE
+Verin Akhtala	Verin Akhta	FALSE
+Dablan	Jablan	FALSE
+Askinsky District	Tenkinsky District	FALSE
+Gangjin County	Jiangjin County	FALSE
+Cusset	Tusset	FALSE
+Kolsky District	Museu de Grão Vasco	FALSE
+Oodaaq	Oodate	FALSE
+Santerno	Manternach	FALSE
+Halmstad	Monte Ruapehu	FALSE
+Matzenbach	Watzenbach	FALSE
+Techi Dam	Terauchi Dam	FALSE
+Lötzelbach	Héngqín Xīn Qū	FALSE
+Bonnétage	Bonnétable	FALSE
+Jableh	Jablu	FALSE
+Makrisia	Volcán Tacana	FALSE
+Ilioupoli	Titioupolis	FALSE
+Hülben	Elben	FALSE
+Cork Airport	Selkirk Airport	FALSE
+Zvanarka	Manarkadu	FALSE
+Endibir	Madibira	FALSE
+Karoo	Karov	FALSE
+Stary Dębsk	Stary Dębiec	FALSE
+Fandoqlu	Fandoqā	FALSE
+Chlomo	Shlomi	FALSE
+Ariha	Arica	FALSE
+Skopun	Gott s Park	FALSE
+Košarno	Košarka	FALSE
+Yaodu District	Denigomodu District	FALSE
+Iteya	Mbeya	FALSE
+Oshima Airport	Tsushima Airport	FALSE
+Mladějov	Nadějov	FALSE
+Ambrì	Ambr	FALSE
+PieLab	AgeLab	FALSE
+Grose Valley	Rimrose Valley	FALSE
+Rud Ab	Mykhlykuvak	FALSE
+Ogóły	Ogórki	FALSE
+Jirandeh	Wiranden	FALSE
+Hoff Church	Twelve Oaks Mall	FALSE
+Romitan	Yomitan	FALSE
+Jerada	Warada	FALSE
+Bussero	Bussero	TRUE
+Niavol	Niāwala	TRUE
+Yun Range	Yung Ling	TRUE
+Maniyur	Maniyur	TRUE
+Kufa	Kufa	TRUE
+Loppi	Lopen Kunta	TRUE
+Raio Palace	Palácio do Raio	TRUE
+Rajwara	Rajbara	TRUE
+University Prep	U Prep	TRUE
+Roubion	Rubio	TRUE
+Mulhouse	Mulhouse	TRUE
+Guilin	Guilin City	TRUE
+Siodłary	Siodłary	TRUE
+Hikawa Maru	NYK Hikawamaru	TRUE
+Kupiansk	Kupiansk	TRUE
+Isfahan	Isfahanas	TRUE
+Ballito	Ballito	TRUE
+Hromec	Kromec	TRUE
+Avignon	Avinhon	TRUE
+Élorn	Elorn	TRUE
+Naraq	Naragh	TRUE
+Polomí	Polomí	TRUE
+Échigey	ÉCHIGEY	TRUE
+Havian	Hāvīān	TRUE
+Yangtze	Chang He River	TRUE
+Bełzów	Belzow	TRUE
+Disneyland	Dland	TRUE
+Răchiteni	Rachiteni	TRUE
+Codogné	Codogné	TRUE
+Treviso	Trevîs	TRUE
+Turić	Turic	TRUE
+Sorengo	Sorengh	TRUE
+WMIO	WMIO	TRUE
+Temirtau	Temirtau	TRUE
+Chrzelice	Chrzelice	TRUE
+Lih Kolam	Likolom	TRUE
+Prousos	PROUSOS	TRUE
+Baissour	Baissour	TRUE
+Uptown Station	Bloomington station	TRUE
+Guty Duże	Guty Duze	TRUE
+Chmelná	Chmelná	TRUE
+Türkan	Turkyany	TRUE
+Kalalè	Kalale	TRUE
+Kuremäe	Kuremyae-Kyulya	TRUE
+Juyik	Juyig	TRUE
+Ouche	L’Ouche Rivière	TRUE
+Voykovsky District	Voikovski District	TRUE
+Ehrendingen	Oberehrendingen	TRUE
+Ab Mis	Ab Mis	TRUE
+Patuxet	Patuxet tribe	TRUE
+Klindia	Klindia	TRUE
+WAEG	WAEG FM	TRUE
+Douala	Dualao	TRUE
+Sisamón	Sisamón	TRUE
+Saman Ban	Samanbān	TRUE
+Minsk	Gorod-Geroy Minsk	TRUE
+Glenarm	Glenarm	TRUE
+Chennai	Chennapuri	TRUE
+Dêngqên County	Dêngqên County	TRUE
+Leupung	Leupoeeng	TRUE
+Drniš	Dernisium	TRUE
+Yvorne	Yvorne VD	TRUE
+Körnerpark	Körnerpark	TRUE
+Suvla	Sulva	TRUE
+Angresse	Angressa	TRUE
+Deh-e Salim	Deh-e Salīm	TRUE
+Turinsky District	Turinskiy Raion	TRUE
+Brixworth	Bricksworth	TRUE
+Austria	Avstriya	TRUE
+Sty Head	Styhead	TRUE
+Tomboco	TOMBOCO	TRUE
+Rumoi Station	Rumoi Station	TRUE
+Wojtele	Woiten	TRUE
+Yabroud	Jebru	TRUE
+Bhuwana	Bhuwāna	TRUE
+Pinós	Pinos	TRUE
+Penghu	Penghu Xian	TRUE
+Yūki Shrine	Yūki Shrine	TRUE
+Négone	Négone	TRUE
+DA postcode area	Dartford postal area	TRUE
+Settle College	Settle girls high school	TRUE
+Konindou	Konendou	TRUE
+Szydłów	Shydlow	TRUE
+Calderdale	Calderdale	TRUE
+Freienbach	Freienbach	TRUE
+Tunari	Tunarii	TRUE
+Pudong	Pudong New District	TRUE
+Kabuti	Kavote	TRUE
+Halmeu	Halmeriu	TRUE
+Sälliku	Syaliku	TRUE
+Ławiczek	Łowicżek	TRUE
+Asbury Theological Seminary	Asbury Seminary	TRUE
+Bambali	Bambale	TRUE
+Skuterë	Skuterë	TRUE
+Aare	Aare Fluss	TRUE
+Velino	Fiume Velino	TRUE
+Khar Road railway station	Khar Road railway station	TRUE
+Chohtan	Chauhtan	TRUE
+Cloppenburg	Cloppenburg	TRUE
+Jafarlu	Ja farlu	TRUE
+Walong	Wālong	TRUE
+Güllük	Güllük	TRUE
+Notre Dame Gate	Żabbar Gate	TRUE
+Fatezh	Fatezh Urban Settlement	TRUE
+Magadino	Magadign	TRUE
+Capraia	Capraia Island	TRUE
+Nyazura	Nyazura	TRUE
+WXME	WXCQ	TRUE
+Bilo	Billò	TRUE
+Tučep	Tučep	TRUE
+Germany	Germuanii	TRUE
+Guatapé	Guatapé	TRUE
+Dzierzki	Dziersken	TRUE
+Laurium	Lávrio	TRUE
+Læsø Airport	Læsø	TRUE
+Corlay	Corlay	TRUE
+Bulboci	Bolbochi-Vek	TRUE
+El Casar	El Casar	TRUE
+Matmari	Mattmari	TRUE
+Beimen railway station	Pei-men Station	TRUE
+Hipstedt	Hipstedt	TRUE
+Nnewi	Newi	TRUE
+Yeknam	Yakonom	TRUE
+Seville	Seviya	TRUE
+KMXI	KMXI	TRUE
+Ubrzeż	Ubrzez	TRUE
+Đurđenovac	Đurđenovac	TRUE
+Incheon	Incheon-si	TRUE
+Deh-e Kal	Deh-e Kal	TRUE
+Konya	Kuniyah	TRUE
+Bohušov	Bohusov	TRUE
+Tongde County	Thünte County	TRUE
+Danson House	Danson House	TRUE
+Namysłów	Namislova	TRUE
+Elsava	Elsava River	TRUE
+Faratan	Farāţūn	TRUE
+Das Qaleh	das qaleh	TRUE
+Igüeña	igüeña	TRUE
+WBKK	WBKK	TRUE
+Trace City	Trace City	TRUE
+Meshik	Meshik	TRUE
+Agarru	Agarru	TRUE
+Ceraso	Cerasa	TRUE
+Maine	Sports in Maine	TRUE
+Ménéké	Ménéké	TRUE
+Sar Maleh	Zirmoleh	TRUE
+Cerda	Cerda	TRUE
+Ernakulam	Ernacolum	TRUE
+Montechino	MONTECHINO	TRUE
+Bsalim	Bsalim	TRUE
+Sočice	Socice	TRUE
+Laukath	Laukath	TRUE
+Naters	Nares	TRUE
+Cetireni	Chetyryany	TRUE
+Gelnica	Gölnicbánya	TRUE
+Saint FM	Saint FM	TRUE
+Kaunas Airport	Karmėlava Airport	TRUE
+Belyov	Belve	TRUE
+Novoalexandrovsk	Novoaleksandrovskaya	TRUE
+Yueyang	Yueyang City	TRUE
+Abkosh	Ābkash	TRUE
+Sulik	Sūlīk	TRUE
+Ko Yao District	Ko Yao District	TRUE
+Gloǵi	Glođi	TRUE
+Calvary	CALVARY	TRUE
+Despotovo	Despot-Sankt-Iwan	TRUE
+Poppi	Poppi	TRUE
+Huldange	Huldingen	TRUE
+Tiantai County	T’ien-t’ai Hsien	TRUE
+Dominica	Domínike	TRUE
+Österland	Österlanden	TRUE
+Treffen	Treffen am Ossiacher See	TRUE
+SS Lenin	Soviet ship Lenin	TRUE
+Istmina	Istmia	TRUE
+Sangaki	Sangaki	TRUE
+Creaton	Little Creaton	TRUE
+Aguigan	Agiaguano	TRUE
+Roseč	Roseč	TRUE
+Hatis	Atis	TRUE
+Kirishi	Kiriszy	TRUE
+Rucuma	Rucuma	TRUE
+Selckë	Selezzi	TRUE
+Mariarano	Mariarano	TRUE
+Baldeo	Baldeo	TRUE
+Molla Basak	Mollā Bāsak	TRUE
+Axum	Axum stelae	TRUE
+Wanggu railway station	Wanggu Station	TRUE
+Sabonje	Sabogna	TRUE
+Alagoas	State of Alagoas	TRUE
+Ughli	Oghlū	TRUE
+Tuam	Tuam	TRUE
+Oman	Sports in Oman	TRUE
+Mount Hua	Mount Hua Shan	TRUE
+Ftericha	ftericha	TRUE
+Cerrado	Campos Cerrados	TRUE
+Kian Shahr	Kian Shahr	TRUE
+Bertiolo	Bertiolo	TRUE
+Gryazi	Gryazi Urban Settlement	TRUE
+Trion City School District	Trion Schools	TRUE
+Bregenz	Brėgencas	TRUE
+Yangiyer	Jangier	TRUE
+Oil Region	Oil Region	TRUE
+Gmina Jedwabno	Jedwabno	TRUE
+La-tai	La-tai	TRUE
+Silla Pata	Silla Pata	TRUE
+Göksu	Göksu Nehri	TRUE
+Ferris Wheel	The Chicago wheel	TRUE
+Yanshou County	Yen-shou	TRUE
+Jabab	Al Jibāb	TRUE
+Mihanabad	Mīhanābād	TRUE
+Masterton	Masterton	TRUE
+Turkey	Turkii	TRUE
+Drezdenko	Drzeń	TRUE
+Cuérigo	Cuerigo	TRUE
+Stone Lud	The Stone Lud	TRUE
+Corsock	Corsock	TRUE
+Kulerzów	Kulerzow	TRUE
+Fife	Kingdom of Fife	TRUE
+Nazarlu	Nāderlī	TRUE
+Huojia County	Huojia Xian	TRUE
+Randøy	Randøy	TRUE
+Daporijo	Daparizo	TRUE
+Anj Pol	Anjeh Pol	TRUE
+Vilapata	Vilapata	TRUE
+Nabéré	Nabéré	TRUE
+Yron	Yron	TRUE
+Soto station	Soto station	TRUE
+Candelo	Canderium	TRUE
+Pakistan	The Republic of Pakistan	TRUE
+Meghas	Meghas	TRUE
+Damaneh	Damneh	TRUE
+Gorely	Vulkan Gorelyy	TRUE
+Bassar	Préfecture de Bassar	TRUE
+Eythorne	Eythorne	TRUE
+Bradwall	Bradwall Green	TRUE
+Bandar Kangan	Kangun	TRUE
+WARF	WARF	TRUE
+Alay Valley	Alay Valley	TRUE
+Bottenwil	Bottenwil	TRUE
+Epsach	Epsach BE	TRUE
+MLC School	MLC School	TRUE
+Bamakan	Bamkan	TRUE
+Škabrijel	Škabrijel	TRUE
+Mactan	Mactán	TRUE
+Viñuela	La Vinuela	TRUE
+Geul	Gueule River	TRUE
+Bonnée	Bonnée	TRUE
+El Manzala	El Manzala	TRUE
+Biche	Biche	TRUE
+Venavi	Winaweh	TRUE
+Appleton railway station	Appleton station	TRUE
+Lopevi	Lupévi	TRUE
+Honskirch	Honskirch	TRUE
+Wanshan District	Wanshan District	TRUE
+Qaleh Rashid	Ghaleh ye Rashid	TRUE
+Ribe County	Ribe	TRUE
+Fohorem	Fohorem	TRUE
+Rolava	Rohlau Bach	TRUE
+Luleh	Luleh	TRUE
+Rüti Monastery	Rüti Monastery	TRUE
+Marlagunta	Marlagunta village	TRUE
+Gibi District	Gibi District	TRUE
+Niedernhall	Stadt Niedernhall	TRUE
+Kaylaka	Kaylŭka	TRUE
+Dojran	Doēranē	TRUE
+Bashtino	Baschtina	TRUE
+Tokyo Medical University	Tōkyō Ika Daigaku	TRUE
+Posądza	Posądza	TRUE
+Karakoçan	Karakoçan Dep	TRUE
+Óbarok	Óbarokpuszta	TRUE
+Meizhou	Mei Chou	TRUE
+Kavakeb	Kavakeb	TRUE
+Unterwalden	Kanton Unterwalden	TRUE
+Ledegem	Legem	TRUE
+Klütz	klütz	TRUE
+Deer Valley	Deer Valley Resort	TRUE
+Banten Bay	Banten Bay	TRUE
+Wądroże Wielkie	Wadroze Wielkie	TRUE
+Crimea	Kirim	TRUE
+Missouri	Missourri	TRUE
+Sulejów	Sulejów	TRUE
+Lake Garda	Lacus Benacus	TRUE
+Kalehkin	Kalehkin	TRUE
+Yangzhou	Chiang-tu-hsien	TRUE
+Maravanthe	Maravanthe	TRUE
+Kalandra	Kalándra	TRUE
+Gmina Mirsk	Komunumo Mirsk	TRUE
+Padoły	Padoły	TRUE
+Neuffons	Nau Honts	TRUE
+Ancient Diocese of Dol	Bishop of Dol	TRUE
+Tuntang	Tuntang	TRUE
+Noke Station	noke station	TRUE
+Ćićevci	Čičevac	TRUE
+Hrabenov	Hrabenov	TRUE
+Schwerin	Zuarin	TRUE
+Remøy Bridge	Remoy Bridge	TRUE
+Alwar State	Alwar Rajputana	TRUE
+Bulatovići	Bulatović	TRUE
+Kharaju	Kharājū	TRUE
+Bygland	Byglandi vald	TRUE
+VTB Arena	VTB Arena	TRUE
+Ishimbay	Išimbaj	TRUE
+Cinere	Tjinere-kulon	TRUE
+Meänmaa	Meänmaa	TRUE
+Widas River	Lengkong River	TRUE
+Ladenburg	Stadt Ladenburg	TRUE
+Peța	Peta River	TRUE
+Épreville	Epreville	TRUE
+WRTV	WRTV	TRUE
+Czerwięcice	Czerwięcice	TRUE
+Pingtung Airport	PINGTUNG AIRPORT	TRUE
+Skulsk	Skuls	TRUE
+Gagil	Gagil	TRUE
+Qoşasu	Qoşasu	TRUE
+Ségbana	Segbana	TRUE
+Sittard	Zittert	TRUE
+WRDQ	WRDQ	TRUE
+Kerikeri	Kerikeri Slogan	TRUE
+Mesana	Mésana	TRUE
+Castlebar	Caislean an Bharraigh	TRUE
+Köniz	Koeniz	TRUE
+Shuruiyeh	Shuruiyeh	TRUE
+Vechte	De Vecht	TRUE
+Tuzhinsky District	Tuzhinsky District	TRUE
+Sierra de Lema	Sierra Rinocote	TRUE
+Estonia	Prehistoric Estonia	TRUE
+Galațca	GALAȚCA	TRUE
+Scupi	Skopi	TRUE
+Altier	ALTIER	TRUE
+Bagé	Bajé	TRUE
+Bahwil	Al Bahawal	TRUE
+Liberia	Liberiyaa	TRUE
+Ražanac	Ražanac	TRUE
+Trédion	Trédion	TRUE
+Kandongo	Kandongu	TRUE
+Narashino	Narashino	TRUE
+Sofia Airport	Sofia lennujaam	TRUE
+Argonauta argo	Argonauta naviformis	TRUE
+Vabriga	Abrega	TRUE
+Sirjan	Sirdschan	TRUE
+Kute Station	Kute Station	TRUE
+Vevi	vevi	TRUE
+Marol	Marol	TRUE
+Petrovske	Petrovs’ke	TRUE
+Kaleköy	Kaleköy	TRUE
+Corndon Hill	Corndon Hill	TRUE
+Manzanar	Manzanar	TRUE
+Barker Mill	Barker Mill	TRUE
+Chapman Run	Chapmans Run	TRUE
+Lämmerensee	Lammerensee	TRUE
+Omaraj	Amarej	TRUE
+Vikarabad	Vicarabad	TRUE
+Sirghan	sirghan	TRUE
+Buix	Buix	TRUE
+Köhlen	Koehlen	TRUE
+Mohni	Mohni Saar	TRUE
+Igma	Cerro Igma	TRUE
+Gietki	Gietki	TRUE
+Ségrie	Segrie	TRUE
+Russia	Russsia	TRUE
+Drużyny	Druzyny	TRUE
+Rashtian	Rashian	TRUE
+Epauvillers	Epauvillers JU	TRUE
+Edur	Edur	TRUE
+Drava	Drau Fluss	TRUE
+Sannou	Sannou	TRUE
+Pish Qaleh	Pish Qaleh	TRUE
+Namrur	Namarūr	TRUE
+Hell Gorge	Hell Gorge	TRUE
+Ricigliano	Comune di Ricigliano	TRUE
+Deklidash	Deklīdāsh	TRUE
+Granitets	Granitets	TRUE
+Ramata Island	Ramata Island	TRUE
+Agona	Agona	TRUE
+Saskatchewan	Saskatchewan	TRUE
+Altmark	Ooltmark	TRUE
+Makovce	makovce	TRUE
+Nehuyeh	Tohuyeh	TRUE
+Eyn Molla	Eyn Molla	TRUE
+Kolenté	Kolente	TRUE
+Iliya	Ilija	TRUE
+St Teath	Teath	TRUE
+Chezani	Cezani	TRUE
+Ajjampura	Ajjampura	TRUE
+Sotk	Sotq	TRUE
+Canton of Melun	Canton of Melun	TRUE
+Turivar	Tavrivar	TRUE
+Gijón	Geography of Gijón	TRUE
+Sojas	Sujas	TRUE
+Kałdus	Kałdus	TRUE
+Sarazm	Sarasm	TRUE
+Kleino	Kleinos	TRUE
+Shilovsky District	Shilovsky District	TRUE
+Joftan	Jaghtān	TRUE
+Haljala	Khal’yal’	TRUE
+Mchinji	Chimji	TRUE
+Kanfo	Kanfo	TRUE
+Mirgasar	Mirgasar	TRUE
+Baynuj	Bāynū	TRUE
+Gailach	Gailach River	TRUE
+Buhen	Buhen fortress	TRUE
+Zagheh	Zāgheh-ye Bālā	TRUE
+Užice	Uzhitse	TRUE
+Ünnaste	Ünnaste	TRUE
+Söse Dam	Söse Reservoir	TRUE
+Aurskog	Urskog	TRUE
+Mbrostar	Mbrostar	TRUE
+Ojakəran	Ojakəran	TRUE
+Overath	Vilkerath	TRUE
+El Kab	Elkab	TRUE
+Hafteh	Hafteh	TRUE
+Lac de Lona	Lake Lona	TRUE
+Şahmurlu	Şahmurlu	TRUE
+Tabluha	Tabluha	TRUE
+Rolle District	Rolle District	TRUE
+Zibo	Zībó	TRUE
+Kar Panbehi	Kar Panbehi	TRUE
+Mount Waldo	Mount Waldo	TRUE
+Olsky District	Ol skii	TRUE
+Dengkou County	Dengkou	TRUE
+Émagny	Emagny	TRUE
+Warten	Warten	TRUE
+Gmina Złota	Comuna de Złota	TRUE
+Karkala	Karkala	TRUE
+Unieść	Unieść	TRUE
+Dubai	Dubaii	TRUE
+Jecheon	Chech'ŏn	TRUE
+Kashgar	Kaxgar	TRUE
+Syros	Síra	TRUE
+Crystal Mill	Old Crystal Mill	TRUE
+Åsum	Aasum	TRUE
+Dłutkowo	Dlutkowo	TRUE
+Əlikli	Alikli	TRUE
+Kunashak	Kunasjak	TRUE
+Borzymów	Borzymów	TRUE
+Bellary	Ballari	TRUE
+Királd	Kirald	TRUE
+Baraband	Bahraband	TRUE
+Porqueres	Porqueras	TRUE
+Mohaka River	Mohaka River	TRUE
+Mount Hermon	Mount Hermon	TRUE
+Neko Harbour	Neko Harbour	TRUE
+McDonald's	Criticisms of McDonald s	TRUE
+Alvorge	Ramal do Alvorge	TRUE
+Hama	Hamāh	TRUE
+Borai	Borai	TRUE
+Kendari	Kutha Kendhari	TRUE
+Ballyconnell	Béal Átha Conaill	TRUE
+WYCC	WYCC DT	TRUE
+Salos	Salos	TRUE
+Campinas	Kampinasas	TRUE
+Kleine Emme	Kleine Emme	TRUE
+Ōfunato Station	Ohfunato Station	TRUE
+Parapat	Prapat	TRUE
+Chezelle	CHEZELLE	TRUE
+Arazand	Arezand	TRUE
+Athens Arena	Athens Arena	TRUE
+Gilan Tappeh	Gīlān Tappeh	TRUE
+Azhdahatu	Āzdehsū	TRUE
+Lagyna	Lagyná	TRUE
+Yendayar	Yendayaar	TRUE
+Iwadate Station	Iwadate Station	TRUE
+Maqne	Maakne I	TRUE
+Ablon-sur-Seine	Ablon-sur-Seine	TRUE
+San Miguel Coatlán	San Miguel Coatlán	TRUE
+Mutusjärvi	Mutusjarvi	TRUE
+Kalsia	Kalsia	TRUE
+Ashbak	Eshak	TRUE
+Lašupe Station	Lašupe Station	TRUE
+Tyumen	Tjumeņa	TRUE
+Mishkar	Mishgar	TRUE
+Vadsøya	Vadsøya	TRUE
+Zəngənə	Zangene	TRUE
+Tscherms	Tscherms Cermes	TRUE
+Kusmara	Kasmara	TRUE
+Akşehir	Akshahr	TRUE
+Shalalu	Shāllū	TRUE
+Daşlı	Daşlı	TRUE
+Ljungan	Ljungan River	TRUE
+Točná	Totschna	TRUE
+Kabul	Kaebol	TRUE
+Khiva	Khiwa	TRUE
+Intel	Intel corporation	TRUE
+Bdebba	Bdubbā	TRUE
+Vị Thanh	Vị Thanh	TRUE
+Agrolândia	Agrolândia	TRUE
+Boreča	Boreča	TRUE
+Grinkot	Grinkot	TRUE
+Seysses	Sèishes	TRUE
+Kuh Pat	Pā’īn Kūh Pāt	TRUE
+Matsloot	Westpoort	TRUE
+Kvalsundet	Kvalsund	TRUE
+Sheydanak	Sheydānak	TRUE
+Kronoby	Kronobyu	TRUE
+Hunyuan County	Hun-yüan Hsien	TRUE
+Jongmyo	Jongmyo jeryeak	TRUE
+Río Viejo	Rioviejo	TRUE
+Gidesk	Gidesk	TRUE
+Congjiang County	Congjiang Xian	TRUE
+Brčko	Breucus	TRUE
