@@ -1,0 +1,35 @@
+E Ayrshire	0	false
+North Lanarcshire	0	false
+N. Yorksh	0	false
+N.amptonshire	0	false
+Northumbld	0	false
+Northumberl	0	false
+Nottingham shire	0	false
+Orkneys	0	false
+Pembrockshire	0	false
+Perth&Kinross	0	false
+Perth-Kinross	0	false
+Kinross	0	false
+Radnorshire	0	false
+Renfrew	0	false
+Scot. Borders	0	false
+Shetlands	0	false
+Shrops	0	false
+SOMERSUTSIIIIE	0	false
+S Ayrshire	0	false
+S. Lanarkshire	0	false
+South Yorkshire	0	false
+Staffordshire	0	false
+Sterling	0	false
+Suffolk	0	false
+Suff	0	false
+Surrey	0	false
+Surr	0	false
+Tyne & Wear	0	false
+Tyron	0	false
+Warwicksh	0	false
+W Berkshire	0	false
+Wiltsh	0	false
+Worchestershire	0	false
+Worcs	0	false
+Tyne	0	false
