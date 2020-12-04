@@ -1,0 +1,94 @@
+Bedfordshire	0	false
+Buckinghamshire	0	false
+Cambridgeshire	0	false
+Cheshire	0	false
+Cleveland	0	false
+Cornwall	0	false
+Cumbria	0	false
+Derbyshire	0	false
+Devon	0	false
+Dorset	0	false
+Durham	0	false
+East Sussex	0	false
+Essex	0	false
+Gloucestershire	0	false
+Greater London	0	false
+Greater Manchester	0	false
+Hampshire	0	false
+Hertfordshire	0	false
+Kent	0	false
+Lancashire	0	false
+Leicestershire	0	false
+Lincolnshire	0	false
+Merseyside	0	false
+Norfolk	0	false
+North Yorkshire	0	false
+Northamptonshire	0	false
+Northumberland	0	false
+Nottinghamshire	0	false
+Oxfordshire	0	false
+Shropshire	0	false
+Somerset	0	false
+South Yorkshire	0	false
+Staffordshire	0	false
+Suffolk	0	false
+Surrey	0	false
+Tyne and Wear	0	false
+Warwickshire	0	false
+West Berkshire	0	false
+West Midlands	0	false
+West Sussex	0	false
+West Yorkshire	0	false
+Wiltshire	0	false
+Worcestershire	0	false
+Flintshire	0	false
+Glamorgan	0	false
+Merionethshire	0	false
+Monmouthshire	0	false
+Montgomeryshire	0	false
+Pembrokeshire	0	false
+Radnorshire	0	false
+Anglesey	0	false
+Breconshire	0	false
+Caernarvonshire	0	false
+Cardiganshire	0	false
+Carmarthenshire	0	false
+Denbighshire	0	false
+Aberdeen City	0	false
+Aberdeenshire	0	false
+Angus	0	false
+Argyll and Bute	0	false
+City of Edinburgh	0	false
+Clackmannanshire	0	false
+Dumfries and Galloway	0	false
+Dundee City	0	false
+East Ayrshire	0	false
+East Dunbartonshire	0	false
+East Lothian	0	false
+East Renfrewshire	0	false
+Eilean Siar	0	false
+Falkirk	0	false
+Fife	0	false
+Glasgow City	0	false
+Highland	0	false
+Inverclyde	0	false
+Midlothian	0	false
+Moray	0	false
+North Ayrshire	0	false
+North Lanarkshire	0	false
+Orkney Islands	0	false
+Perth and Kinross	0	false
+Renfrewshire	0	false
+Scottish Borders	0	false
+Shetland Islands	0	false
+South Ayrshire	0	false
+South Lanarkshire	0	false
+Stirling	0	false
+West Dunbartonshire	0	false
+West Lothian	0	false
+Antrim	0	false
+Armagh	0	false
+Down	0	false
+Fermanagh	0	false
+Derry and Londonderry	0	false
+Tyrone	0	false
