@@ -10,8 +10,7 @@ Please find datasets, scripts and other information for the three tools in separ
 * [Heritage Connector](https://www.sciencemuseumgroup.org.uk/project/heritage-connector/) `./heritageconnector`
 
 
-
-
+For each tool we have provided datasets related to North Britain.
 Thanks to British Library, Historic Environment Scotland and Historic England for the datasets.
 
 Contains Historic Environment Scotland and Ordnance Survey data © Historic Environment Scotland - Scottish Charity No. SC045925 © Crown copyright and database right 2020
