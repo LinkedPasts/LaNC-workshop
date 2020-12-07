@@ -1,12 +1,24 @@
-## Example data files (2020-07-25)
+## WHG example data files
+2020-12-07
 
-### [HGIS de las Indias](https://www.hgis-indias.net/) 
+###Linked Places format (JSON-LD based)
+	
+*_From [HGIS de las Indias](https://www.hgis-indias.net/)_* dataset.
 
-**lugares\_60_1.jsonld**: 60 HGIS de las Indias settlements
+- lugares_20.jsonld: HGIS de las Indias settlements
+- lugares_60.jsonld: HGIS de las Indias settlements
 
-**lugares\_60_2.jsonld**: 60 more HGIS de las Indias settlements
+###LP-TSV format (tab-delimited)
 
+- diamonds135.tsv : 135 sample records mainly from Indonesia
+- croniken.tsv: 181 sample records from the Baltics and Poland
+- template-places.tsv: 7 varied records from the template spreadsheet
 
-### Other
+###Spreadsheet templates
 
-**diamonds135.tsv**: 135 sample records mainly from Indonesia
+Contains all valid columns + 7 sample records and codebook
+
+- LP-TSV_template.xlsx
+- LP-TSV_template.ods
+	
+
