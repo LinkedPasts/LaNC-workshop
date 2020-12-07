@@ -16,6 +16,7 @@ Presented by:
 ---
 * [DeezyMatch github repository](https://github.com/Living-with-machines/DeezyMatch)
 * [DeezyMatch's tutorial (on github)](https://living-with-machines.github.io/DeezyMatch/)
+* [HackMD note for questions and comments](https://hackmd.io/Pztj72piT_GjJrtDozzg9w)
 
 
 
@@ -39,3 +40,4 @@ Presented by:
 
 - If you have a specific install/run question, please request in the chat to join a breakout room with one of us.
 - Did anyone try training a new model on a non-English language? How did it go?
+- Add questions/comments to this [HackMD note](https://hackmd.io/Pztj72piT_GjJrtDozzg9w).
