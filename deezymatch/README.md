@@ -6,6 +6,7 @@
 * [Code and instructions to build a toponym matching dataset](https://github.com/LinkedPasts/LaNC-workshop/tree/main/deezymatch/create_topmatching_dataset)
 * [DeezyMatch demos](https://github.com/LinkedPasts/LaNC-workshop/tree/main/deezymatch/demos)
 * [Binder link to demos](https://mybinder.org/v2/gh/LinkedPasts/LaNC-workshop/HEAD?filepath=deezymatch%2Fdemos)
+* [Demo datasets](https://github.com/LinkedPasts/LaNC-workshop/blob/main/deezymatch/demo_datasets.md)
 ---
 * [DeezyMatch github repository](https://github.com/Living-with-machines/DeezyMatch)
 * [DeezyMatch's tutorial (on github)](https://living-with-machines.github.io/DeezyMatch/)
