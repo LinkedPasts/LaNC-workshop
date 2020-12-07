@@ -2,7 +2,7 @@
 
 Presented by:
 - Mariona Coll-Ardanuy - mcollardanuy at turing.ac.uk
-- Kasra Hosseini - khosseini - turing.ac.uk
+- Kasra Hosseini - khosseini at turing.ac.uk
 - Katie McDonough - kmcdonough at turing.ac.uk
 - Federico Nanni - fnanni at turing.ac.uk
 
