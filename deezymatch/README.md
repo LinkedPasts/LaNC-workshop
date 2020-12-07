@@ -1,12 +1,10 @@
 # DeezyMatch Tutorial @ LinkedPasts6
 
 Presented by:
-Mariona Coll-Ardanuy - mcollardanuy at turing.ac.uk
-Kasra Hosseini - khosseini - turing.ac.uk
-Katie McDonough - kmcdonough at turing.ac.uk
-Federico Nanni - fnanni at turing.ac.uk
-
-The Alan Turing Institute, London, UK
+- Mariona Coll-Ardanuy - mcollardanuy at turing.ac.uk
+- Kasra Hosseini - khosseini - turing.ac.uk
+- Katie McDonough - kmcdonough at turing.ac.uk
+- Federico Nanni - fnanni at turing.ac.uk
 
 ## Useful links
 * [Presentation](https://docs.google.com/presentation/d/14wRL9vGIfNc_xHa4gR_I5hL9_ChVHDacfXUQ6DLeKP0/edit?usp=sharing)
