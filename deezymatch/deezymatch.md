@@ -1,34 +1,16 @@
 # DeezyMatch Tutorial @ LinkedPasts6
 
-## Useful links
 
-* [DeezyMatch github repo](https://github.com/Living-with-machines/DeezyMatch)
-* Instructions for using DeezyMatch can be found [here](https://living-with-machines.github.io/DeezyMatch/).
-* Models/datasets are stored [in a sharepoint folder.](https://thealanturininstitute-my.sharepoint.com/:f:/g/personal/mcollardanuy_turing_ac_uk/Eo20kXuHZFhMpBC3Tvg_CGEBwpCSO76jHGPE7eQFFItuOQ?e=6RaGZN)
-*
-
-## Monday hands-on session
-
-- Talk about the other tutorials (Gethin)
-- Motivation (Katie)
-- Demo 1: How to use the candidate ranker (uses a realistic model), Binder
-- Architecture and main functionalities (Kasra), datasets/inputs
-- Demo 2 (hands-on): Train a model (pair classifier) from scratch using 100/1000-row dataset
-- **How to adapt DeezyMatch, Tips (Mariona)**, 20mins before the end
-- (Demo 3: Provide a realistic dataset and notebook with outputs)
-- Other datasets (Gethin)
+## Monday hands-on session schedule
 
 - Introduction (10min), Katie, Kasra
     - Motivation, architecture and main features. [Link to the presentation.](https://docs.google.com/presentation/d/14wRL9vGIfNc_xHa4gR_I5hL9_ChVHDacfXUQ6DLeKP0/edit?usp=sharing)
+- Demo 1: How to use the candidate ranker (uses a realistic model), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LinkedPasts/LaNC-workshop/HEAD?filepath=deezymatch%2Fdemos)
+- Architecture and main functionalities (Kasra), datasets/inputs
+- Demo 2 (hands-on): Train a model (pair classifier) from scratch using 100/1000-row dataset
+- **How to adapt DeezyMatch, Tips (Mariona)**, 20mins before the end
 
-- If we have time:
-- DeezyMatch main functionalities, hands-on session (20min)
-- Install DeezyMatch
-      - Beginning user setup (basic model): use [the Binder link](https://mybinder.org/v2/gh/Living-with-machines/DeezyMatch/HEAD?filepath=examples)
-      - Advanced user setup (to train your own model and use your own data): install on your local machines  
-    - Follow DeezyMatch's tutorial [here](https://living-with-machines.github.io/DeezyMatch/) for local install instructions an explanation of the notebook.
-    - Download a new dataset from [the sharepoint folder](https://thealanturininstitute-my.sharepoint.com/:f:/g/personal/mcollardanuy_turing_ac_uk/Eo20kXuHZFhMpBC3Tvg_CGEBwpCSO76jHGPE7eQFFItuOQ?e=6RaGZN) and train a realistic model from scratch.
-        - XXX can we have a real deezymodel, and one that we build on the fly, and the same for the candidates file, one that we use to show how good resuls we get, and one so that they can see how it's used? I can prepare them.
+- Demo 3: Provide a realistic dataset and notebook with outputs.
 - Real case toponym matching application (30min)
     - Input file: options and recommendations.
     - How to prepare a training dataset for DeezyMatch.
@@ -36,10 +18,26 @@
     - How to format candidates and queries.
     - Ranking options and recommendations.
 
+## DeezyMatch demos
+
+To run the demos, you can either:
+
+1. Directly use the Binder link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LinkedPasts/LaNC-workshop/HEAD?filepath=deezymatch%2Fdemos)
+2. or manually install DeezyMatch on your machines ([see](https://github.com/Living-with-machines/DeezyMatch#installation)) and run the demos on your machine.
+
+- Advanced user setup (to train your own model and use your own data): install on your local machines  
+- Follow DeezyMatch's tutorial [here](https://living-with-machines.github.io/DeezyMatch/) for local install instructions an explanation of the notebook.
+- Download a new dataset from [the sharepoint folder](https://thealanturininstitute-my.sharepoint.com/:f:/g/personal/mcollardanuy_turing_ac_uk/Eo20kXuHZFhMpBC3Tvg_CGEBwpCSO76jHGPE7eQFFItuOQ?e=6RaGZN) and train a realistic model from scratch.
+
+## Useful links
+
+* [DeezyMatch github repo](https://github.com/Living-with-machines/DeezyMatch)
+* Instructions for using DeezyMatch can be found [here](https://living-with-machines.github.io/DeezyMatch/).
+* Models/datasets are stored [in a sharepoint folder.](https://thealanturininstitute-my.sharepoint.com/:f:/g/personal/mcollardanuy_turing_ac_uk/Eo20kXuHZFhMpBC3Tvg_CGEBwpCSO76jHGPE7eQFFItuOQ?e=6RaGZN)
 
 # DeezyMatch demo datasets
 
-Living with Machines have provided datasets ???
+Living with Machines have provided several datasets.
 Locating a National Collection has provided datasets from North Britain.
 
 ### Query scenarios are provided in `./query_scenarios` for:
