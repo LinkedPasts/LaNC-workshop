@@ -2,7 +2,7 @@
 
 There are different manners to create a toponym matching dataset.
 
-In the [`create_training_data.ipynb` notebook](https://github.com/LinkedPasts/LaNC-workshop/tree/main/deezymatch/create_topmatching_dataset/create_training_data.ipynb) we how to generate a wikigazetteer (that is, a gazetteer generated from wikipedia entries with coordinates), and how to use it to build a toponym matching training set for DeezyMatch.
+In [`create_training_data.ipynb`](https://github.com/LinkedPasts/LaNC-workshop/tree/main/deezymatch/create_topmatching_dataset/create_training_data.ipynb) we show how to generate a wikigazetteer (that is, a gazetteer generated from wikipedia locations with alternate names), and how to use it to build a toponym matching training set for DeezyMatch.
 
 The resulting dataset will have the following format (tab-separated, one row per line):
 
