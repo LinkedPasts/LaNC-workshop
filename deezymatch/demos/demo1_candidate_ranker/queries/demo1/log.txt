@@ -1,0 +1,3 @@
+12/07/2020_08:40:08
+Current directory: /Users/khosseini/myJobs/ATI/Projects/2019/LaNC-workshop/deezymatch/demos/demo1_candidate_ranker
+python /Users/khosseini/anaconda3_deezy/envs/py37deezy/lib/python3.7/site-packages/ipykernel_launcher.py -f /Users/khosseini/Library/Jupyter/runtime/kernel-1a61fc0f-2776-4cc0-9ccf-b8bd38ae5a26.json
