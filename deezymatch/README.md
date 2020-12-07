@@ -16,6 +16,7 @@ Presented by:
 ---
 * [DeezyMatch github repository](https://github.com/Living-with-machines/DeezyMatch)
 * [DeezyMatch's tutorial (on github)](https://living-with-machines.github.io/DeezyMatch/)
+---
 * [HackMD note for questions and comments](https://hackmd.io/Pztj72piT_GjJrtDozzg9w)
 
 
