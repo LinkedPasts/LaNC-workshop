@@ -17,7 +17,6 @@ Although these query scenarios are in the correct format for DeezyMatch they are
 https://github.com/Living-with-machines/LwM_SIGSPATIAL2020_ToponymMatching
 https://zenodo.org/record/4034819#.X8Yx36r7TOQ
 
-* Do we need an extra eg https://geoportal.statistics.gov.uk/datasets/a6c138d17ac54532b0ca8ee693922f10_0
 
 ### Pre-trained DeezyMatch model is provided in `./models/wikigaz_en_brit` for:
 
