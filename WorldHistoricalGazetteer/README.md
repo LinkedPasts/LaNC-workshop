@@ -23,7 +23,7 @@ Small example datasets in LP-TSV and Linked Places formats; can be uploaded and 
 
 **/BL_HE data (not WHG-ready)**
 
-Prospective data from British Library and Historic England; not ready for WHG upload
+Prospective data from British Library and Historic England; they can be uploaded to the WHG but their performance will not be ideal.
 
 
 ---
