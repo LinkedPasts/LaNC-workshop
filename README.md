@@ -6,7 +6,7 @@ Please sign up at this [eventbrite](https://www.eventbrite.co.uk/e/linking-geo-d
 
 Please find datasets, scripts and other information for the three tools in separate directories.
 * [DeezyMatch](https://living-with-machines.github.io/DeezyMatch/) `./deezymatch`
-* [World Historical Gazetteer](http://whgazetteer.org/) `./WHG`
+* [World Historical Gazetteer](http://whgazetteer.org/) `./WorldHistoricalGazetteer`
 * [Heritage Connector](https://www.sciencemuseumgroup.org.uk/project/heritage-connector/) `./heritageconnector`
 
 
