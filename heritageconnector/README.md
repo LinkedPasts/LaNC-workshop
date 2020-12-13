@@ -1,6 +1,18 @@
 # Heritage Connector demo
 
-[Heritage Connector](https://www.sciencemuseumgroup.org.uk/project/heritage-connector/)
+## Launching the demo
+
+- Binder
+  1. Go to https://mybinder.org/v2/gh/LinkedPasts/LaNC-workshop/HEAD?filepath=heritageconnector
+  2. Wait for it to load then open `ThesaurusMatcher demo.ipynb`
+- Locally: clone this repo and install `requirements.txt`
+
+## More about the project
+
+- [Project Website](https://www.sciencemuseumgroup.org.uk/project/heritage-connector/)
+- [Project Blog](https://thesciencemuseum.github.io/heritageconnector/)
+
+## About the datasets
 
 Thanks to British Library, Historic Environment Scotland and Historic England for the datasets.
 Thanks to Joan Francis at the BL for help with data preparation.
