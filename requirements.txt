@@ -1,1 +1,3 @@
 DeezyMatch==1.2.2
+hc-nlp>=0.2.1
+pandas

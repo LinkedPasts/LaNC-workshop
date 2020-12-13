@@ -1,0 +1,2 @@
+hc-nlp>=0.2.1
+pandas
