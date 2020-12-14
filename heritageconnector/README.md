@@ -9,6 +9,8 @@
 
 ## More about the project
 
+Presented by Jamie Unwin (jamie.unwin at sciencemuseum.ac.uk) and Kalyan Dutia (kalyan.dutia at sciencemuseum.ac.uk).
+
 - [Project Website](https://www.sciencemuseumgroup.org.uk/project/heritage-connector/)
 - [Project Blog](https://thesciencemuseum.github.io/heritageconnector/)
 
